@@ -11,17 +11,17 @@ canvas {
     transform: translate(-50%, -50%);
 }
 
-@font-face {
+/* @font-face {
     font-family: 'theFont';
     src: url(./assets/TsunagiGothic.ttf);
-}
+} */
 
 /* @font-face {
     font-family: 'three';
     src: url(./assets/three.ttf);
 } */
 
-@font-face {
+/* @font-face {
     font-family: 'AlimamaShuHeiTi';
     src: url(./assets/AlimamaShuHeiTi.ttf);
-}
+} */
